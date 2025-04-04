@@ -1,0 +1,6 @@
+para las migracios de tabla producto osea para q te figure en la base de datos
+dotnet ef migrations add ProductoU1Migracion --context Tech.Data.ApplicationDbContext -o "C:\Users\User\Desktop\2X94\Tech\Data\Migrations”
+
+
+comando para aceptar subida a la base dedatos
+dotnet ef database update
