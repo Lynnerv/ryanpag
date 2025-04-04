@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ryanpag")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0aaad1a756c1f454a035119ef4a8387d7396731")]
 [assembly: System.Reflection.AssemblyProductAttribute("ryanpag")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ryanpag")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

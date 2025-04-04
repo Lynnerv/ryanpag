@@ -141,3 +141,4 @@ C:\Users\Uuario\Desktop\ryanpag\obj\Debug\net8.0\refint\ryanpag.dll
 C:\Users\Uuario\Desktop\ryanpag\obj\Debug\net8.0\ryanpag.pdb
 C:\Users\Uuario\Desktop\ryanpag\obj\Debug\net8.0\ryanpag.genruntimeconfig.cache
 C:\Users\Uuario\Desktop\ryanpag\obj\Debug\net8.0\ref\ryanpag.dll
+C:\Users\Uuario\Desktop\ryanpag\obj\Debug\net8.0\ryanpag.sourcelink.json
